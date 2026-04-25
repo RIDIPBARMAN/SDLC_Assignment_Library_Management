@@ -59,8 +59,13 @@ The LMS does not involve high-risk operations such as financial transactions or 
 - Not suitable for simple systems like LMS
 
 ---
+## 5. Diagram of Waterfall Model
 
-## 5. Advantages
+![Waterfall Diagram](image1.png)
+
+----
+
+## 6. Advantages
 - Simple and easy to understand  
 - Well-structured  
 - Easy to manage  
@@ -69,12 +74,12 @@ The LMS does not involve high-risk operations such as financial transactions or 
 
 ---
 
-## 6. Limitations
+## 7. Limitations
 - Difficult to make changes later  
 - Testing happens late  
 - Not suitable for dynamic systems  
 
 ---
 
-## 7. Conclusion
+## 8. Conclusion
 The Waterfall Model is the most appropriate SDLC model for developing a Library Management System because it provides a simple, structured, and disciplined approach. It works efficiently with stable and well-defined requirements, requires minimal user involvement, and ensures proper documentation at every stage. Due to its low complexity and predictable nature, the Waterfall model is an ideal choice for this system.
